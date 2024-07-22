@@ -8,7 +8,7 @@
 
 ## Function Analysis
 ## Function code
-![Code Snapshot](path/to/code_snapshot.png)
+![Code Snapshot](purity_codesnapshot.png)
 
 ### Function: _pullUnderlying
 
